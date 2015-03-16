@@ -1,0 +1,1 @@
+Implementação do exemplo citado no post: http://tnogueira.com/blog/2010/04/28/carregando-combo-de-estado-e-municipios-utilizando-ajax-com-jquery-json-e-vraptor-3-1-2/
